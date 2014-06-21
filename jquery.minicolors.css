@@ -74,7 +74,6 @@
 	width: 150px;
 	height: 150px;
 	background: url(jquery.minicolors.png) -120px 0;
-	cursor: crosshair;
 }
 
 .minicolors .minicolors-grid-inner {
@@ -114,7 +113,6 @@
 	width: 20px;
 	height: 150px;
 	background: white url(jquery.minicolors.png) 0 0;
-	cursor: row-resize;
 }
 
 .minicolors-slider-saturation .minicolors-slider {
